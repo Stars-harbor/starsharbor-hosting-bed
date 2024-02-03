@@ -1,0 +1,19 @@
+{
+  "name": "starsharbor-music-library",
+  "version": "1.0.0",
+  "description": "个人音乐加速",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stars-harbor/starsharbor-music-library.git"
+  },
+  "author": "Starsharbor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Stars-harbor/starsharbor-music-library/issues"
+  },
+  "homepage": "https://github.com/Stars-harbor/starsharbor-music-library#readme"
+}
