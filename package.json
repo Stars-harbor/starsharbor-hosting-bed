@@ -1,6 +1,6 @@
 {
   "name": "starsharbor-music-library",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "个人音乐加速",
   "main": "index.js",
   "scripts": {
