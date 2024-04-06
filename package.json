@@ -1,19 +1,19 @@
 {
-  "name": "starsharbor-music-library",
-  "version": "1.0.5",
-  "description": "个人音乐加速",
+  "name": "starsharbor-hosting-bed",
+  "version": "1.0.0",
+  "description": "内容托管加速",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Stars-harbor/starsharbor-music-library.git"
+    "url": "git+https://github.com/Stars-harbor/starsharbor-hosting-bed.git"
   },
   "author": "Starsharbor",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Stars-harbor/starsharbor-music-library/issues"
+    "url": "https://github.com/Stars-harbor/starsharbor-hosting-bed/issues"
   },
-  "homepage": "https://github.com/Stars-harbor/starsharbor-music-library#readme"
+  "homepage": "https://github.com/Stars-harbor/starsharbor-hosting-bed#readme"
 }
