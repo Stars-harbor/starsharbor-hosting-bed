@@ -1,6 +1,6 @@
 {
   "name": "starsharbor-hosting-bed",
-  "version": "1.0.13",
+  "version": "1.0.14",
   "description": "内容托管加速",
   "main": "index.js",
   "scripts": {
